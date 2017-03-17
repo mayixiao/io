@@ -26,7 +26,8 @@ public class TestMy {
 		deal_Array[6] = 3;
 		deal_Array[7] = 3;
 		deal_Array[8] = 1;
-		
+		deal_Array[9] = 1;
+
 		int temp = 0;
 		List<Integer> result = new ArrayList<Integer>();
 		
